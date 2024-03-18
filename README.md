@@ -1,4 +1,4 @@
-# Smart Lottery DApp
+# Smart Lottery DApp - In progress
 
 The Smart Lottery DApp project is designed to showcase the end-to-end development and integration process of a decentralized application (DApp) from backend to frontend, with a focus on transparency, security, and user experience. Lotteries are popular forms of gambling, but traditional lottery systems often lack transparency, trustworthiness, and accessibility. The Smart Lottery DApp aims to address these issues by leveraging blockchain technology to create a decentralized and provably fair lottery platform.
 
