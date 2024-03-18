@@ -19,13 +19,13 @@ Traditional lottery systems are often centralized, opaque, and susceptible to ma
 
 **Key Features:**
 
-1. **Blockchain Integration:** Utilize a blockchain platform such as Ethereum to store lottery data and execute smart contracts for lottery ticket purchases, draws, and prize distribution.
+1. **Blockchain Integration:** Utilize a blockchain platform such as Ethereum to store lottery token pool and execute smart contracts for lottery ticket participation, draws, and prize distribution.
 
-2. **Smart Contracts:** Develop smart contracts to manage the lottery rules, automate ticket sales, generate random numbers for draw selection, and distribute winnings to winning participants.
+2. **Smart Contracts:** Develop smart contracts to manage the lottery rules, accept Ethereum from players, pick random player for draw selection, and distribute winnings to winning participant.
 
-3. **User Wallet Integration:** Integrate user wallets with the DApp to facilitate secure transactions, track lottery ticket purchases, and distribute prize payouts.
+3. **User Wallet Integration:** Integrate user wallets with the DApp to facilitate secure transactions, track lottery participation, and distribute prize payouts.
 
-4. **Frontend Development:** Design and develop a frontend interface for the Smart Lottery DApp, including features such as account registration, ticket purchasing, draw results display, and wallet management.
+4. **Frontend Development:** Design and develop a frontend interface for the Smart Lottery DApp, including features such as connecting to user wallet, sending bets and draw results display.
 
 5. **Testing and Deployment:** Conduct thorough testing of the DApp to ensure functionality, security, and usability, and deploy the finalized version of the DApp to a blockchain network for public access.
 
